@@ -1,5 +1,7 @@
 Driver Drowsiness Detection using Eye Aspect Ratio (EAR)
+
 Overview
+
 This project implements a real-time driver drowsiness detection system using a webcam. It leverages MediaPipe's Face Mesh and the Eye Aspect Ratio (EAR) method to detect prolonged eye closure, which is an indicator of drowsiness. When drowsiness is detected, the system displays a warning message and plays an audible alert.
 
 Features
